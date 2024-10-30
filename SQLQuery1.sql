@@ -1,3 +1,6 @@
+-- Link to Tableau Dashboard:
+-- https://public.tableau.com/app/profile/shiv.patel4335/viz/CovidDashboard_16434963233580/Dashboard1
+
 Select *
 FROM PortfolioProject02..CovidDeaths
 WHERE continent is not null
